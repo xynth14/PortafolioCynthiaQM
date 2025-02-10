@@ -1,33 +1,27 @@
-# Tunis Personal Portfolio React Template
+# Portafolio Personal en React
 
-## Description
+## Descripcion
 
-Setup Procedure
+Developed FullStack
 
-## Project setup
+## Projecto setup
 
 ```
-npm install / npm install --legacy-peer-deps
+npm install
 ```
 
-### Compiles and hot-reloads for development
+### Inciiar el proyecto
 
 ```
 npm run start
 ```
 
-### Compiles and minifies for production
+### Compilar y enviar a produccion
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### URL Proyecto
 
-```
-npm run lint
-```
-
-### Customize configuration (vue-cli)
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Ver [https://cynthiaquispemarin.web.app/](https://cynthiaquispemarin.web.app/).
